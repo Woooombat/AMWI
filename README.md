@@ -57,10 +57,10 @@ The mod is fully tested for Baldur's Gate 2 EE. It installs fine for the origina
 - It is highly recommended to rescue Imoen as soon as possible.
 
 **Q: "What happens if I don't romance Imoen?"**
-- Then you lose out on 98% of the content. For example, there are 7 banters with Jaheira, and it drops to 0 if Imoen isn't romanced. Might as well not run the mod.
+- There are non-romance related interjections and banters, but you will miss out on most of the content. For example, there are 7 banters with Jaheira, and it drops to 0 if Imoen isn't romanced.
 
 **Q: "Should I play the game a certain way to get the most content?"**
-- Yes. Try not to skip content and follow the intended path: Spellhold -> City-of-Caverns -> Ust Natha.
+- Yes. Try not to skip content and follow the intended path: Spellhold -> City-of-Caverns -> Ust Natha. Talk to everyone. Stuff like that.
 
 **Q: "Who should I take in my party to get the most content?"**
 - The mod adds well over 80 banters for all Bioware NPCs, so pretty much anybody works. See the Banter List section if you have trouble deciding who to go with.
@@ -119,10 +119,10 @@ If you feel like you're rushing through the game too fast and outpacing the bant
 ### **General Gameplay Tips**
    
 1. It's highly recommended to rescue Imoen as quickly as possible.
-    - Simply put, the more you do in Chapter 2/3, the less Imoen content you'll see.There are romance dialogues attached to all the major side quests and a few minor quests, none of which are retroactive. The mod also adds a good amount of interjections, as early as the Circus Tent, Amalas in Copper Coronet, etc. Plus, most of the new banters occur in Chapter 6, so you want the breathing room. Ideally, you want to quickly assemble your party and set sail as soon as possible.
+    - Simply put, the more you do in Chapter 2/3, the less Imoen content you'll see. There are romance dialogues attached to all the major side quests and a few minor quests, none of which are retroactive. The mod also adds a good amount of interjections, as early as the Circus Tent, Amalas in Copper Coronet, etc. Plus, most of the new banters occur in Chapter 6, so you want the breathing room. Ideally, you want to quickly assemble your party and set sail as soon as possible.
 
 3. It's highly recommended to follow the intended game path: Spellhold -> City-of-Caverns -> Ust Natha.
-    - Again, you've got to play the content to see the content. Also recommended to play the good path or the completionist style. Evil content in the base game is mostly lame and an afterthought.
+    - Again, you've got to play the content to see the content. Also recommended to play the good path. Evil content in the base game is mostly lame and an afterthought. Be thorough, explore, and talk to people also help.
 
 5. It's highly recommended to raise dead party members as soon as possible, especially Imoen.
     - The mod relies on scripted triggers. Running around with dead party members is a very good way to skip trigger points and break intended behavior. Note that the romance will not end if Imoen gets disabled by spells that remove her from the party. You can just hire her back in and keep going.
