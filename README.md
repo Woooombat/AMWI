@@ -6,6 +6,8 @@ Romance mod for Imoen - Full romance arc, many new banters, and interjections.
 
 [![G3 Forums](https://img.shields.io/static/v1?label=Discussion&message=G3%20Forums&color=3b45a3&labelColor=eee&style=for-the-badge)](https://www.gibberlings3.net/forums/topic/41581-mod-a-moment-with-imoen-romance-mod-for-imoen/)
 
+[![Nexusmods](https://img.shields.io/static/v1?label=Discussion&message=Nexusmods&color=3b45a3&labelColor=eee&style=for-the-badge)](https://www.nexusmods.com/baldursgate2ee/mods/170)
+
 # Introduction
 
 A Moment With Imoen is a romance mod for Imoen in Baldur's Gate 2.
