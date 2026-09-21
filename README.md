@@ -152,3 +152,7 @@ The mod runs entirely on scripted triggers. There is not a single romance timer.
 
 Besides that, just enjoy the ride. You are not walking on eggshells in this romance.
 
+# Copyright
+
+© 2026 Wombat – All Rights Reserved
+
